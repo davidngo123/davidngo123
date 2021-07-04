@@ -29,4 +29,4 @@
 <!-- Top Languages -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidngo123&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=CHS,Webmaster&bg_color=000000&text_color=FFFFFF" /></a>
 
-#### If you're intrested in connecting with me, please reach out to dngo2@uw.edu. I'm always happy to meet more people!
+#### _If you're intrested in connecting with me, please reach out to dngo2@uw.edu. I'm always happy to meet more people!_
