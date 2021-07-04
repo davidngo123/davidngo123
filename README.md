@@ -2,7 +2,7 @@
 <!-- Name -->
 <h2>Hi! my name is David <img src="hi.gif" width="30px"> </h2>
 <p>I am a junior studying Informatics with a focus on  <b> Software Engineering and Data Science </b> at the University of Washington.</p>
-<p>I am currently working as a <i> Data Engineer </i> at Stakana Analytics. </p>
+<p>I am currently working as a <b> Data Engineer </b> at Stakana Analytics. </p>
 
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -28,3 +28,5 @@
 [![](https://img.shields.io/badge/-🎵%20Music%20Trends-000)](https://github.com/info-201a-sp21/music-trends)
 <!-- Top Languages -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidngo123&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=CHS,Webmaster&theme=nightowl" /></a>
+
+### If you're intrested in connecting with me, please reach out at dngo2@uw.edu! I'm always happy to meet more people
