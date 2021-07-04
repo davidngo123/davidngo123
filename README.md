@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**davidngo123/davidngo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Name -->
+<h2>Hi! my name is David <img src="hi.gif" width="30px"> </h2>
+<p>I am a junior studying Informatics with a focus on *Software Engineering and Data Science* at the University of Washington.</p>
 
-Here are some ideas to get you started:
+<p>I'm also currently working as a _Data Engineer_ at Stakana Analytics </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages
+
+#### Technologies
+
+#### Personal Projects
+<!-- Top Languages -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidngo123&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=CHS,Webmaster&theme=nightowl" /></a>
