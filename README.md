@@ -27,6 +27,7 @@
 [![](https://img.shields.io/badge/-🦠%20COVID%20Works-000)](https://github.com/davidngo123/Innovations_Covid19)
 [![](https://img.shields.io/badge/-🤖%20Stock%20Bot-000)](https://github.com/davidngo123/Slack-Stock-Bot)
 [![](https://img.shields.io/badge/-🎵%20Music%20Trends-000)](https://github.com/info-201a-sp21/music-trends)
+[![](https://img.shields.io/badge/-🔎%20SEOc%20Tools-000)](https://github.com/davidngo123/Tellinga-SEO-Tools)
 <!-- Top Languages -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidngo123&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=CHS,Webmaster&bg_color=000000&text_color=FFFFFF" /></a>
 
