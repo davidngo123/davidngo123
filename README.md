@@ -1,6 +1,6 @@
 
 <!-- Name -->
-<h2>Hi! my name is David <img src="hi.gif" width="25px"> </h2>
+<h2>Hi! My name is David <img src="hi.gif" width="25px"> </h2>
 <p>I am a junior studying Informatics with a focus on  <b> Software Engineering and Data Science </b> at the University of Washington.</p>
 <p>I am currently working as a <b> Data Engineer </b> at Stakana Analytics. </p>
 
